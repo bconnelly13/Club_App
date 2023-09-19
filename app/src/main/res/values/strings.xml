@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">clubApp</string>
+    <string name="all_clubs">All Clubs</string>
+    <string name="my_clubs">My Clubs</string>
+    <string name="add_to_my_clubs">add to my clubs</string>
+</resources>
